@@ -23,7 +23,7 @@
       "ActivePower(kW)": 132.5,
       "Desc": "Wind Turbine TT3",
       "Stage": 1,
-      "Weather": "dry",
+      "Weather": "clear sky",
   },
   {
       "Id": "2",

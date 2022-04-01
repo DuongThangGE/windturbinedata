@@ -1,5 +1,5 @@
 {
- "WindTurbine_Infor": 
+ "WindTurbine_Infor": [
  {
       "Id": 0,
       "Wind Turbine name": "WT01",
@@ -11,7 +11,7 @@
       "ActivePower(kW)": 498.6,
       "Desc": "Wind Turbine TT1",
       "Stage": 0,
-      "Weather": "drain",
+      "Weather": "drain"
   },
    {
       "Id": 1,
@@ -24,7 +24,7 @@
       "ActivePower(kW)": 132.5,
       "Desc": "Wind Turbine TT3",
       "Stage": 1,
-      "Weather": "clear sky",
+      "Weather": "clear sky"
   },
   {
       "Id": 2,
@@ -37,8 +37,9 @@
       "ActivePower(kW)": 227.7,
       "Desc": "Wind Turbine TT5",
       "Stage": 1,
-      "Weather": "dry",
-  },
+      "Weather": "dry"
+  }
+ ]
 }
 
     

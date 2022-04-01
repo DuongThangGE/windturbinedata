@@ -1,7 +1,7 @@
 {
  {
       "Id": "0",
-      "wtname": "WT01",
+      "Wind Turbine name": "WT01",
       "Ambient temperature": 82,
       "Pitch angle": 2.1,
       "WindSpeed (m/s)": 4.6,

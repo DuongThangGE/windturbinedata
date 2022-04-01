@@ -1,4 +1,5 @@
 {
+ "WindTurbine_Infor": 
  {
       "Id": 0,
       "Wind Turbine name": "WT01",
@@ -39,4 +40,5 @@
       "Weather": "dry",
   },
 }
+
     
